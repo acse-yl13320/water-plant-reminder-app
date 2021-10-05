@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_plant_on_toolbar"
+        android:icon="@drawable/ic_add_icon"
+        android:title="Add"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/order_plant_on_toolbar"
+        android:icon="@drawable/ic_order"
+        android:title="Order"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/calendar_on_toolbar"
+        android:icon="@drawable/ic_calendar"
+        android:title="Calendar"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/settings_in_menu"
+        android:title="Settings"
+        android:visible="true"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/start_service_in_menu"
+        android:title="start notification"
+        android:visible="true"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/stop_service_in_menu"
+        android:title="stop notification"
+        android:visible="true"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c66450c-c872-4699-ad1e-62647b5ef543" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCsffbsUAwLKcbI0BY6vJrOnzR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/eclipse-workspace/Software_group84" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\liyin\IdeaProjects\WebServer\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainFrame">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.HelloWorld" />
+      <module name="WebServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boundary.MainFrame" />
+      <module name="WebServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boundary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QRtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qrcode.QRtest" />
+      <module name="WebServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qrcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="Application.QRtest" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c66450c-c872-4699-ad1e-62647b5ef543" name="Default Changelist" comment="" />
+      <created>1582458015134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582458015134</updated>
+      <workItem from="1582458018723" duration="51000" />
+      <workItem from="1582458082389" duration="1334000" />
+      <workItem from="1582459967813" duration="12351000" />
+      <workItem from="1582472668610" duration="6602000" />
+      <workItem from="1582534683409" duration="166000" />
+      <workItem from="1582801876903" duration="3854000" />
+      <workItem from="1583385116030" duration="1253000" />
+      <workItem from="1583388968417" duration="682000" />
+      <workItem from="1584006287287" duration="63000" />
+      <workItem from="1585209012268" duration="179000" />
+      <workItem from="1585999317189" duration="605000" />
+      <workItem from="1586436223576" duration="22000" />
+      <workItem from="1586793022965" duration="4859000" />
+      <workItem from="1586852854926" duration="26000" />
+      <workItem from="1586972332461" duration="1778000" />
+      <workItem from="1587018359663" duration="1772000" />
+      <workItem from="1587470468618" duration="6397000" />
+      <workItem from="1587536334377" duration="698000" />
+      <workItem from="1587540643074" duration="331000" />
+      <workItem from="1587543908883" duration="1325000" />
+      <workItem from="1588587284117" duration="261000" />
+      <workItem from="1588589507370" duration="460000" />
+      <workItem from="1588590210566" duration="3324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="97" key="#Project_Structure" timestamp="1582534800873">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="97" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1582534800873" />
+    <state x="490" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1582470058464">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="490" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1582470058464" />
+    <state x="131" y="328" width="421" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582805078580">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="131" y="328" width="421" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1368.872@0.0.1368.872" timestamp="1582805078580" />
+    <state x="438" y="25" key="Diagram.Print.Preview.Dialog" timestamp="1586974295991">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="438" y="25" key="Diagram.Print.Preview.Dialog/0.0.1368.872@0.0.1368.872" timestamp="1586974295991" />
+    <state x="364" y="180" key="FileChooserDialogImpl" timestamp="1586974282596">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="364" y="180" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1586974282596" />
+    <state width="1326" height="109" key="GridCell.Tab.0.bottom" timestamp="1588599467881">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="109" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1920.1040@0.0.1368.872" timestamp="1583387069215" />
+    <state width="1326" height="109" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1588599467881" />
+    <state width="1326" height="109" key="GridCell.Tab.0.center" timestamp="1588599467881">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="109" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1920.1040@0.0.1368.872" timestamp="1583387069215" />
+    <state width="1326" height="109" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1588599467881" />
+    <state width="1326" height="109" key="GridCell.Tab.0.left" timestamp="1588599467880">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="109" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1920.1040@0.0.1368.872" timestamp="1583387069215" />
+    <state width="1326" height="109" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1588599467880" />
+    <state width="1326" height="109" key="GridCell.Tab.0.right" timestamp="1588599467881">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="109" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1920.1040@0.0.1368.872" timestamp="1583387069215" />
+    <state width="1326" height="109" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1588599467881" />
+    <state x="188" y="81" key="SettingsEditor" timestamp="1586974113756">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="188" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1586974113756" />
+    <state x="381" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1588590286012">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="381" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1920.1040@0.0.1368.872" timestamp="1583389028772" />
+    <state x="381" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1588590286012" />
+    <state x="373" y="68" width="620" height="735" key="find.popup" timestamp="1586793408964">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="373" y="68" width="620" height="735" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1586793408964" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/control/QRControl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

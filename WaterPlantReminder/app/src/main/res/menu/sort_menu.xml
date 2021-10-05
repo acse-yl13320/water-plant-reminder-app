@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/sort_by_feed"
+        android:title="sort by next feed time"
+        android:icon="@mipmap/ic_launcher"
+        />
+
+    <item
+        android:id="@+id/sort_by_water"
+        android:title="sort by next water time"
+        android:icon="@mipmap/ic_launcher"
+        />
+
+    <item
+        android:id="@+id/sort_by_place"
+        android:icon="@mipmap/ic_launcher"
+        android:title="sort by place"
+        />
+    <item
+        android:id="@+id/sort_by_name"
+        android:icon="@mipmap/ic_launcher"
+        android:title="sort by name"
+        />
+    <item
+        android:id="@+id/sort_by_place_r"
+        android:icon="@mipmap/ic_launcher"
+        android:title="sort by place(z-a)"
+        />
+    <item
+        android:id="@+id/sort_by_name_r"
+        android:title="sort by name(z-a)"
+        android:icon="@mipmap/ic_launcher"/>
+</menu>

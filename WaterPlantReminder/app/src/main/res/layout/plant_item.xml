@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5sp"
+    app:cardCornerRadius="5sp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="70sp"
+            android:layout_height="70sp"
+            android:id="@+id/plant_image"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="5sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/plant_name"
+            android:textSize="30sp"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@id/plant_image"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="5sp"
+            />
+
+        <ImageView
+            android:layout_width="15sp"
+            android:layout_height="15sp"
+            android:src="@drawable/room_icon"
+            android:layout_marginLeft="10sp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/plant_image"
+            android:id="@+id/room_icon_in_item"
+            android:layout_marginBottom="5sp"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/plant_place_text_in_item"
+            android:textSize="15sp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/room_icon_in_item"
+            android:layout_marginBottom="5sp"
+            />
+
+        <ImageView
+            android:layout_width="15sp"
+            android:layout_height="15sp"
+            android:src="@drawable/water_icon"
+            android:layout_marginLeft="10sp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/plant_place_text_in_item"
+            android:id="@+id/water_icon_in_item"
+            android:layout_marginBottom="5sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/plant_water_text_in_item"
+            android:textSize="15sp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/water_icon_in_item"
+            android:layout_marginBottom="5sp"
+            />
+
+        <ImageView
+            android:layout_width="15sp"
+            android:layout_height="15sp"
+            android:src="@drawable/feed_icon"
+            android:layout_marginLeft="10sp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/plant_water_text_in_item"
+            android:id="@+id/feed_icon_in_item"
+            android:layout_marginBottom="5sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/plant_feed_text_in_item"
+            android:textSize="15sp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/feed_icon_in_item"
+            android:layout_marginBottom="5sp"
+            />
+
+    </RelativeLayout >
+
+
+
+</androidx.cardview.widget.CardView>
+
